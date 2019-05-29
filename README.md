@@ -13,4 +13,4 @@ To run Bamazon on Windows and Mac, you will need [Bash](https://git-scm.com/down
 1. In Bash, type `git clone https://github.com/montoyaalan/bamazon.git` to download Bamazon.
 
 
-2. Then, type `cd UT-Coding-Boot-Camp/homework/hw10; npm install` to download the required packages.
+2. Then, type `cd UT-Coding-Boot-Camp/homework/hw12; npm install` to download the required packages.
