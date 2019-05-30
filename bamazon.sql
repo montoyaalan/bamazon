@@ -41,3 +41,5 @@ VALUES
 ("Humbug", "vinyl", 19.98, 25);
 
 ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password'
+
+
